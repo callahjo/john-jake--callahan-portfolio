@@ -1,4 +1,4 @@
-# John (Jake) Callahan - Computer Science Portfolio
+# Jake (John) Callahan - Computer Science Portfolio
 
 ## Project Presentations
 
